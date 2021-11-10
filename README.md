@@ -31,6 +31,9 @@ Guidelines for Submission
 To complete this project, you must submit a Contact Service zipped folder containing the following deliverables:
 
 Contact.java
+
 ContactService.java
+
 ContactTest.java
+
 ContactServiceTest.java
